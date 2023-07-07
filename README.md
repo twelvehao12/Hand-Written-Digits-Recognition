@@ -1,6 +1,10 @@
 # Hand-written-digits-recognition
 基于pytorch和opencv的手写数字识别
 
+源代码在对应的brunch里
+
+---
+
 使用PySide2开发Python的图形界面，使用MFC开发C++的图形界面
 
 模型选用ResNet18
