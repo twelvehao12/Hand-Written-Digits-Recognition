@@ -1,4 +1,4 @@
-# Hand-written-digits-recognition
+# Hand-Written-Digits-Recognition
 基于pytorch和opencv的手写数字识别
 
 源代码在对应的brunch里
